@@ -38,7 +38,7 @@ var myAddress = Address(street: "12", city: "CW", country: "SL")
 myAddress.getFullAddress()
 
 var myNewAddress =  Address(street: "12", city: "CO")
-myNewAddress.getFullAddress()
+myNewAddress.getFullAddress() 
 
 
 
